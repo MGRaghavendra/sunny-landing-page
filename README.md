@@ -1,6 +1,6 @@
 # Frontend Mentor - Sunnyside agency landing page
 
-![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Sunnyside agency landing page coding challenge](https://front-end-mentor-sunny-side-landing-page.netlify.app/)
 
 ## Welcome! 👋
 
